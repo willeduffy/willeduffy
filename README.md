@@ -1,6 +1,6 @@
 - Hi, I’m Will Duffy
 - I’m interested in data analysis, database creation and management, and data mining with python and SQL
-- For my most recent project, please see PokemonDatabase below.
+- For my most recent project, please see PokemonDatabase below
 - Email: will.e.duffy@gmail.com
 
 <!---
